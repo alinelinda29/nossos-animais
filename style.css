@@ -1,4 +1,15 @@
-header{
+.cabecalho{
     background-color: #1ce6a9;
     color: BLACK;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabecalho-imagem{
+   width: 20%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16;
 }
